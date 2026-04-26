@@ -71,3 +71,4 @@ const CardList = ({ data }) => {
 };
 
 export default CardList;
+// updated
